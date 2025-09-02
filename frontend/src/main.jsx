@@ -1,6 +1,6 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import './index'
+import './index.css'
 import App from './App'
 import { BrowserRouter } from 'react-router'
 import {Toaster} from "react-hot-toast"
